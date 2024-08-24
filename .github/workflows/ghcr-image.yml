@@ -25,4 +25,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ghcr.io/Randallzoeng/fastapitest:latest
+        tags: ghcr.io/Randallzoeng/fastapitest
